@@ -1,5 +1,5 @@
 _repo: The-Tempest_2235
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Tragicomedy'
 - !lcsh 'Spirits -- Drama'
 - !lcsh 'Islands -- Drama'
+- GITenberg
 title: The Tempest
 url: http://www.gutenberg.org/ebooks/2235
